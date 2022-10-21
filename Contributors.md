@@ -79,6 +79,9 @@ About: Android Developer <br/>
 Name: [Achsion](https://github.com/Achsion) <br/>
 Place: Germany <br/>
 
+Name: [Pratiksha Nigam](https://github.com/Pratiksha71) <br/>
+Place: India <br/>
+
 Name: [Omkar Nehete](https://github.com/OmkarNehete) <br/>
 Place: India <br/>
 About: Developer <br/>
